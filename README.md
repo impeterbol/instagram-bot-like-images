@@ -13,4 +13,9 @@ This is useful to like pictures from the instagram account.
 7. Once the bot goes till the end of the profile it will start providing Uncaught TypeError: Cannot read property 'click' of null at <anonymous>: - now you're fine clearing the Interval
 
 
+#Important:
+
+By using this code you may potentially get blocked by Instagram for some time if they discover you're doing this automatically - be mindful of the interval between the likes!
+
+
 
